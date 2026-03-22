@@ -1,4 +1,4 @@
-# openclaw_memory 🦞
+# ikun_memory 🦞
 
 ikun🦞3号机 的记忆备份。包含长期记忆、每日记忆、技能配置等。
 
